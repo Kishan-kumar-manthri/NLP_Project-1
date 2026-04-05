@@ -1,0 +1,5 @@
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+data/reviews83325.csv
